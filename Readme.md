@@ -2,7 +2,7 @@
 
 Project Deployment Url
 ```
-https://sahiljosan-ml-project4-end-to-end-app-fsgs27.streamlit.app/
+https://machine-learning-application-6nrgykcjfhngm7qpxmix8c.streamlit.app/
 ```
 
 ### UI of Application
